@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042319070834",
+    "firebase_url": "https://meettheteam-51fdb.firebaseio.com",
+    "project_id": "meettheteam-51fdb",
+    "storage_bucket": "meettheteam-51fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042319070834:android:278607a33fa5145d",
+        "android_client_info": {
+          "package_name": "bpsound.meettheteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042319070834-5om2k7oripjli6e9g7c2rlhsnl66igsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwprBVdVlfWlQB7Pc1kp1jBllqwUnwJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
